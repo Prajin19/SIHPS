@@ -14,6 +14,7 @@ The increasing amount of electronic waste (e-waste) poses significant environmen
 
 ## Proposed Solution / Architecture Diagram
 Develop a web or mobile application that allows users to easily locate nearby e-waste recycling facilities based on their current location or specified area. The application would provide information such as facility addresses, contact details, operating hours, accepted items, and any specific instructions for disposal. Users could also rate and review facilities based on their experiences, helping others make informed decisions.
+![328391923-496c2c40-1688-4ed9-ba9d-52e0bfcaea9f](https://github.com/Prajin19/SIHPS/assets/144979377/78378e53-6b2f-4ae3-88cf-8b7286e82384)
 
 ## Use Cases
 ### Individuals: 
@@ -27,6 +28,7 @@ Municipalities or environmental organizations can use the platform to promote e-
 
 ### Educational Institutions: 
 Schools and universities can educate students and staff about the importance of e-waste recycling and provide them with a tool to locate nearby facilities.
+![328392270-ca515035-de00-4158-b810-6a783116ee1d](https://github.com/Prajin19/SIHPS/assets/144979377/2910b179-ea96-440e-8061-f20b331af7cc)
 
 ## Technology Stack
 ### Frontend:
